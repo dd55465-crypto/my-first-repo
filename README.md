@@ -6,3 +6,6 @@ My name is Dennis.
 Jesus Christ is my Lord and Savior, who freed me from slavery to sin. Among which were addictions to nicotine and marijuana, depression, and a life of dissipation and depravity.
 Some of my hobbies include: seeking the Lord in Scripture with fellow brothers and sisters in the faith, lifting weights/physical exercise, playing tennis, snowboarding, and spending time with family.
 The only programming language I really have any familiarity with is Java and Octave/MATLAB language.
+
+# Profile picture
+![whimsical](https://github.com/user-attachments/assets/5251acee-c739-4cf7-8874-c9dcd3c0b6da)
